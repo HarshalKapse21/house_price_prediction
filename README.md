@@ -60,8 +60,6 @@ house_price_prediction/
 
 The Streamlit app loads the model and columns efficiently using caching for better performance. :contentReference[oaicite:0]{index=0}
 
-
-
 ##  Run Locally
 
 ### Clone Repository
@@ -79,8 +77,8 @@ streamlit run app.py
 
 ## Model Information
 
-Algorithm: Linear Regression
-Target: House Price (Lakhs)
+- Algorithm: Linear Regression
+- Target: House Price (Lakhs)
 ### Features Used:
 - total_sqft
 - bath
@@ -99,6 +97,6 @@ Target: House Price (Lakhs)
 
 ## Author
 
-Harshal Kapse
-Aspiring Data Analyst | ML Enthusiast
-LinkedIn: ((https://www.linkedin.com/in/harshal-kapse-0b4331260/))
+- Harshal Kapse
+- Aspiring Data Analyst | ML Enthusiast
+- LinkedIn: ((https://www.linkedin.com/in/harshal-kapse-0b4331260/))
