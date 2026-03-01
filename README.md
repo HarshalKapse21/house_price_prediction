@@ -40,12 +40,12 @@ This project builds a Machine Learning model to **predict house prices accuratel
 
 house_price_prediction/
 │
-├── BHP.ipynb # Model training notebook
-├── app.py # Streamlit application
-├── model.joblib # Trained ML model
-├── columns.json # Feature columns
-├── requirements.txt # Dependencies
-└── README.md # Documentation
+- ├── BHP.ipynb # Model training notebook
+- ├── app.py # Streamlit application
+- ├── model.joblib # Trained ML model
+- ├── columns.json # Feature columns
+- ├── requirements.txt # Dependencies
+- └── README.md # Documentation
 
 
 ---
