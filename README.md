@@ -1,10 +1,9 @@
-#Bengaluru House Price Prediction
+## Bengaluru House Price Prediction
 
 A Machine Learning web application that predicts house prices in Bengaluru based on user inputs like location, square feet, number of bedrooms, and bathrooms.
+- Built using Python, Scikit-learn, and Streamlit
 
-🚀 Built using Python, Scikit-learn, and Streamlit
-
-##Live Demo
+## Live Demo
 
  **Try the App:**  
 [https://housepricepredictiongit-tjcgpklydgdkqg3uicphrk.streamlit.app/](https://housepricepredictiongit-tjcgpklydgdkqg3uicphrk.streamlit.app/)
