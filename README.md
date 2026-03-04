@@ -57,7 +57,7 @@ house_price_prediction/
 3. Trained model predicts price  
 4. Result shown instantly in UI  
 
-The Streamlit app loads the model and columns efficiently using caching for better performance. :contentReference[oaicite:0]{index=0}
+The Streamlit app loads the model and columns efficiently using caching for better performance.
 
 ##  Run Locally
 
